@@ -1,4 +1,4 @@
-Hi 👋 My name is Heather Blackwood
+Hi! My name is Heather Blackwood
 ==================================
 
 Machine Learning Engineer
