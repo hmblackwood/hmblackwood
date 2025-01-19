@@ -4,7 +4,7 @@ Hi 👋 My name is Heather Blackwood
 Machine Learning Engineer
 -------------------------
 
-I am a machine learning engineer with a focus on learning and experimentation.
+I am a machine learning engineer.
 
 * 🌍  I'm based in Port Orchard, WA
 * 🖥️  See my portfolio at [Portfolio](http://hmblackwood.github.io/)
